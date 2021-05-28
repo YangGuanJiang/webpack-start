@@ -1,0 +1,1 @@
+body,html{margin:0;padding:0;height:100%}#box1,body,html{background-color:pink}#box1{width:100px;height:100px;display:flex;backface-visibility:hidden}#box2{width:200px;height:200px;background-color:#ff1493}
